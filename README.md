@@ -71,5 +71,5 @@ This repository is intended for **personal portfolio and professional reference*
 
 ## 👤 Author
 **Adarsh**  
-Data Specialist Trainee  
-Technical Hub
+B.Tech. Data Science Student
+Aditya College of Engineering and Technology, Surampalem
